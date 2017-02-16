@@ -1,0 +1,1127 @@
+{
+  "settings": {
+    "name": "NewSite-01-10_1508",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.10.5",
+    "uniqCompNum": 46,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NSM-KUBAN.RU</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">ГЛАВНАЯ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-e\">О НАС</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-18\">ЦЕНЫ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-15\">КОНТАКТЫ</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-17\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ ЗВОНОК</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header4-b",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grav-2000x1125.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "ООО \"НСМ-КУБАНЬ\"<br>",
+          "text": "ДОБЫЧА И ПЕРЕРАБОТКА НЕРУДНЫХ МАТЕРИАЛОВ<br>Предприятие существует с 2006 года. Добыча ГПС с последующей переработкой производится с января 2007 года. При производстве продукции применяется&nbsp;оборудование компании Metso Minerals. Поставки продукции осуществляются автотранспортом и Ж/Д, в зависимости от условий договора. <br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#contacts2-15\" data-toolbar=\"-mbrBtnMove\">КОНТАКТЫ<br></a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#features1-16\" data-toolbar=\"-mbrBtnMove\">ЦЕНЫ</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "МЫ РАБОТАЕМ 24 ЧАСА",
+          "text": "График отгрузки продукции 24 часа в сутки без выходных.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#contacts2-15\" data-toolbar=\"-mbrBtnMove\">КОНТАКТЫ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title .mbr-header__text I": {
+              "color": "#ffffff",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
+              "font-size": "30px",
+              "text-align": "left"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "17px",
+              "text-align": "left"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "features1-e",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1arkaplan-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "<i style=\"line-height: 1.5em;\">НАША РАБОТА ЗАКЛЮЧАЕТСЯ В ОТГРУЗКЕ ТОЛЬКО КАЧЕСТВЕННОГО МАТЕРИАЛА</i><br><span style=\"line-height: 1.5em;\">\u001b</span><br>",
+          "subheader": "",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<span style=\"font-family: inherit; line-height: 1.1em;\">ОБЪЕМ ПРОИЗВОДСТВА</span><br><br><br><span style=\"font-family: inherit; line-height: 1.1em;\">Проектная мощность предприятия в месяц равна 150 000 тонн.<br></span><br><span style=\"font-family: inherit; line-height: 1.1em;\"><br></span><br><br>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<span style=\"font-family: inherit; line-height: 1.1em;\">ГРАФИК ОТГРУЗКИ</span><br><br><br>Отдел сбыта предлагает гибкие условия отгрузки нашей продукции. График отгрузки продукции 24 часа в сутки без выходных.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+          "caption2": "<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "<p><span style=\"font-family: inherit; line-height: 1.1em;\">КАЧЕСТВО УСЛУГ</span><br></p><br><br><p>Вся продукция прошла испытания и проверку по ГОСТ 8735-93, ГОСТ 9128-97 в аттестованной лаборатории.</p>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "<br><br>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features1-18",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "НАША ПРОДУКЦИЯ",
+          "subheader": "Вся продукция имеет сертификат соответствия",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-0-600x600.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Песок природный для строительных работ 0-5 мм",
+          "caption1": "350 р/м3",
+          "button1": "<a data-app-btn=\"true\" href=\"#top\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a> <a data-app-btn=\"true\" href=\"index.html#form1-17\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">УТОЧНИТЬ ДОСТАВКУ</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-600x600.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Песок из отсевов дробления 0-10 мм, ГОСТ 8736-93",
+          "caption2": "450 р/м3",
+          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a> <a data-app-btn=\"true\" href=\"index.html#form1-17\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">УТОЧНИТЬ ДОСТАВКУ</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Щебень из гравия, фракция 5-20 мм, ГОСТ 8267-93",
+          "caption3": "550 р/м3",
+          "button3": "<a data-app-btn=\"true\" href=\"#top\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a> <a data-app-btn=\"true\" href=\"index.html#form1-17\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">УТОЧНИТЬ ДОСТАВКУ</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-600x600.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Щебень из гравия, фракция 20-40 мм, ГОСТ 8267-93",
+          "caption4": "650 р/м3",
+          "button4": "<a data-app-btn=\"true\" href=\"#top\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a> <a data-app-btn=\"true\" href=\"index.html#form1-17\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">УТОЧНИТЬ ДОСТАВКУ</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-600x6000.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Щебень из гравия, фракция 10-15 мм, ГОСТ 8267-93",
+          "caption5": "750 р/м3",
+          "button5": "<a data-app-btn=\"true\" href=\"#top\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a> <a data-app-btn=\"true\" href=\"index.html#form1-17\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">УТОЧНИТЬ ДОСТАВКУ</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "form1-17",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Остались вопросы ?<br>Закажите звонок!",
+          "form": {
+            "action": "kag@nsm-kuban.ru",
+            "alerts": {
+              "success": "Спасибо! Мы скоро вам перезвоним!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ваше Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Ваш Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Номер телефона"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Комментарий "
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Белореченск",
+              "placeId": "ChIJqYcl2_bF8EARfKUzWJquUc8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>НАШ АДРЕС</b><br>Российская Федерация, Краснодарский край<br>Белореченский район, г. Белореченск, СОТ \"Росинка-2\"<br><br>\n<strong>КОНТАКТЫ</strong><br>факс: 8-918-222-75-44<br>8 (918) 920-68-22<br>info@nsm-kuban.ru<br> <br>Директор ООО \"НСМ-Кубань\" Костенко Александр Геннадьевич<br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>НАШИ ПАРТНЕРЫ</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.yugminerals.ru/\" target=\"_blank\">ЗАО \"Юг Минералз\"</a></li></ul><p><br></p><p><br></p><p><br></p><p><span style=\"line-height: 1.7em;\">Отдел продаж: &nbsp;&nbsp;</span><br></p><p><span style=\"line-height: 1.7em;\">8 (918) 421-70-35</span></p><p>vrn@nsm-kuban.ru</p><p><span style=\"line-height: 1.7em;\">kag@nsm-kuban.ru</span></p><p>Представительство ООО\"НСМ-Кубань\" г.Москва: &nbsp;<span style=\"line-height: 1.7em;\">8 (918) 220-87-72</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-19",
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Над сайтом работал <a href=\"http://meddaka.ru\" target=\"_blank\">Roger Smith </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Все права защищены 2007-2017 ООО \"НСМ-КУБАНЬ\" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NSM-KUBAN.RU</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">ГЛАВНАЯ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-e\">О НАС</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-18\">ЦЕНЫ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-15\">КОНТАКТЫ</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-17\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ ЗВОНОК</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "H1": {
+              "text-align": "center"
+            },
+            "I": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header4-x",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/grav-2000x1125.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#4c6972",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "<i>ООО \"НСМ-КУБАНЬ\"</i><br><br>",
+          "text": "ДОБЫЧА И ПЕРЕРАБОТКА НЕРУДНЫХ МАТЕРИАЛОВ <br>Предприятие существует с 2006 года. Добыча ГПС с последующей переработкой производится с января 2007 года. При производстве продукции применяется оборудование компании Metso Minerals.Поставки продукции осуществляются автотранспортом и Ж/Д, в зависимости от условий договора. Поставки продукции осуществляются автотранспортом и Ж/Д, в зависимости от условий договора. 2007 года. При производстве продукции применяется оборудование компании Metso Minerals. Поставки продукции осуществляются автотранспортом и Ж/Д, в зависимости от условий договора.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">КОНТАКТЫ<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ЦЕНЫ</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "МЫ РАБОТАЕМ 24 ЧАСА",
+          "text": "График отгрузки продукции 24 часа в сутки без выходных.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">КОНТАКТЫ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title .mbr-header__text I": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/samosvaly-gruzoperevozki-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "<i><br></i><br><i>НАША РАБОТА ЗАКЛЮЧАЕТСЯ В ОТГРУЗКЕТОЛЬКО КАЧЕСТВЕННОГО МАТЕРИАЛА</i>",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<br><br><br><span style=\"font-family: inherit; line-height: 1.1em;\"><br></span>ОБЪЕМ ПРОИЗВОДСТВА<br><br><span style=\"font-family: inherit; line-height: 1.1em;\">Проектная мощность предприятия в месяц равна 150 000 тонн.<br></span><br><span style=\"font-family: inherit; line-height: 1.1em;\"><br></span><br><br>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<br><br><span style=\"font-family: inherit; line-height: 1.1em;\"><br></span><br>ГРАФИК ОТГРУЗКИ<br><br>Отдел сбыта предлагает гибкие условия отгрузки нашей продукции. График отгрузки продукции 24 часа в сутки без выходных.<br><br><br><br><br><br><br><br><br><br><br><br>",
+          "caption2": "<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "<p><br></p><br><p><span style=\"font-family: inherit; line-height: 1.1em;\"><br></span></p><p><span style=\"font-family: inherit; line-height: 1.1em;\">КАЧЕСТВО УСЛУГ</span><br></p><br><p>Вся продукция прошла испытания и проверку по ГОСТ 8735-93, ГОСТ 9128-97 в аттестованной лаборатории.</p>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "<br><br>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-10",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#efefef",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "НАША ПРОДУКЦИЯ",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Узнать стоимость с доставкой</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "pricing-table1-11",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#efefef",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "default",
+            "thirdType": "default",
+            "fourthType": "default",
+            "fifthType": "default"
+          },
+          "title1": "Песок природный для строительных работ 0-5 мм, ГОСТ 8736-2014",
+          "currency1": "",
+          "price1": "350",
+          "period1": "р/м3",
+          "list1": "<ul><li></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a>",
+          "title2": "Песок из отсевов дробления 0-10 мм, ГОСТ 8736-93<br>",
+          "currency2": "",
+          "price2": "<br>380",
+          "period2": "р/м3",
+          "list2": "<ul><li></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a>",
+          "title3": "Щебень из гравия, фракция 5-20 мм, ГОСТ 8267-93<br>",
+          "currency3": "",
+          "price3": "450",
+          "period3": "р/м3",
+          "list3": "<ul><li></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a>",
+          "title4": "Щебень из гравия, фракция 20-40 мм, ГОСТ 8267-93<br>",
+          "currency4": "",
+          "price4": "\u001b500",
+          "period4": "р/м3",
+          "list4": "<ul><li></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a>",
+          "title5": "Щебень из гравия, фракция 10-15 мм, ГОСТ 8267-93<br>",
+          "currency5": "",
+          "price5": "<br>650",
+          "period5": "р/м3",
+          "list5": "<ul><li></li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ СООТВЕТСТВИЯ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#efefef"
+          },
+          "text1": "<strong>НАШ АДРЕС</strong><br>Российская Федерация, Краснодарский край<br>Белореченский район, г. Белореченск, СОТ \"Росинка-2\"<br><br><b>КОНТАКТЫ</b><br>Фактический адрес:<br>Российская Федерация, Краснодарский край<br>Белореченский район, г. Белореченск, СОТ \"Росинка-2\"<br> <br>факс: 8-918-222-75-44<br>8 (918) 920-68-22<br>info@nsm-kuban.ru<br><br>Отдел продаж:<br>8 (918) 421-70-35<br>vrn@nsm-kuban.ru<br>kag@nsm-kuban.ru<br> <br>Представительство ООО\"НСМ-Кубань\" г.Москва:<br>8 (918) 220-87-72<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;НАШИ ПАРТНЕРЫ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><ul class=\"mbr-contacts__list\"><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"http://www.yugminerals.ru/\" target=\"_blank\">ЗАО \"Юг Минералз\"</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "meddaka@mail.ru",
+            "alerts": {
+              "success": "Спасибо! Мы вам перезвоним "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ваше имя"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Отправить<br></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-13",
+          "_params": {
+            "googleMap": {
+              "address": "44.811434, 39.851507",
+              "placeId": "ChIJdUmYN8TG8EARbNV7-YJDYKE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Над сайтом работал <a href=\"http://meddaka.ru\" target=\"_blank\">Roger Smith </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Все права защищены 2007-2017 ООО \"НСМ-КУБАНЬ\" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+        }
+      ]
+    }
+  }
+}
